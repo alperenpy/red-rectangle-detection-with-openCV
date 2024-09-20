@@ -19,7 +19,7 @@ This project detects red rectangles in video streams using OpenCV. It applies co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alperenpy/red-rectangle-detection.git
+   git clone https://github.com/alperenpy/red-rectangle-detection-with-openCV.git
 2. Install required Python libraries:
    ```bash
    pip install opencv-python numpy
